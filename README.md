@@ -123,10 +123,14 @@ Error:  Unexpected token '*' at position 2
 
 ## Demo Video
 
-*Coming soon* — 1–3 minute video showcasing tokenization, parsing, tree building, and evaluation.
+https://youtu.be/PKWi8VofoIk
+
+
+
+ 1–3 minute video showcasing tokenization, parsing, tree building, and evaluation.
 
 ---
 
-## Author
+## Authors
 
-Joseph Mathew — CSC220, Spring 2026
+Joseph Mathew and Joseph Taverna — CSC220, Spring 2026
